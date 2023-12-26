@@ -1,16 +1,16 @@
-# The Contributor Covenant governs the GitHub Campus Experts training
+# The Members Covenant governs the Google Developer Student Club KPI
 
-As an aspiring Campus Expert, you are undergoing a journey to make tech communities more accessible and inclusive. You, and other students learning around you, should expect to conduct this journey safely, and harassment-free. To ensure that everyone is safe, comfortable and feels welcomed, participants in this repository abide by the terms of the Contributor Covenant, version 2.0 ([https://www.contributor-covenant.org/version/2/0/code_of_conduct/](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)). Full text of the code of conduct as pertains to this repository is [included below](#contributor-covenant-code-of-conduct-version-2.0). You can find steps to [report a violation](#getting-help-with-a-violation-or-incident-the-tldr) at the bottom of this document.
+Our team is committed to making tech communities more accessible and inclusive. All members of our community should be safe and feel free to belong. To ensure the safety, comfort, and friendliness of our community, our members abide by the terms of the Contributor Covenant, version 2.0 ([https://www.contributor-covenant.org/version/2/0/code_of_conduct/](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)). Full text of the code of conduct as pertains to this repository is [included below](#contributor-covenant-code-of-conduct-version-2.0). You can find steps to [report a violation](#getting-help-with-a-violation-or-incident-the-tldr) at the bottom of this document.
 
-# Contributor Covenant Code of Conduct Version 2.0
+# Members Covenant Code of Conduct Version 2.0
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our
+We, as members, team members and leaders, pledge to make participation in our community free of harassment for all, regardless of age, gender or
 community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
+size, visible or invisible disability, ethnicity, sex, gender, gender identity and expression.
+identity and expression, level of experience, education, socioeconomic status
+nationality, appearance, race, religion, sexual identity
 and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
@@ -40,18 +40,6 @@ Examples of unacceptable behavior by participants include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-## Our Responsibilities
-
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
-
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
-
 ## Scope
 
 This Code of Conduct applies within all community spaces, and also applies when
@@ -64,7 +52,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-juanpflores@github.com.
+junkjuk5645@gmail.com.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -92,4 +80,4 @@ at [https://www.contributor-covenant.org/translations][translations].
 
 If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction within the Campus Experts program, ways to report the incident and get support are listed below
 
--   Contact @juanpflores & the Education team at education@github.com
+-   Contact the our lead at junkjuk5645@gmail.com
